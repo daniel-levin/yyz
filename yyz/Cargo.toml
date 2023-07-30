@@ -1,0 +1,12 @@
+[package]
+name = "yyz"
+version = "0.1.0"
+description = "OpenAPI client and server generation in pure Rust."
+repository = "https://github.com/daniel-levin/yyz"
+authors = ["Daniel Levin <daniellevin2607@gmail.com>"]
+license = "MIT"
+keywords = ["open-api"]
+edition = "2021"
+
+[dependencies]
+mime = "0.3"
